@@ -1,0 +1,24 @@
+# outputs
+/ultrahdr_out/
+/out/
+*.jpg
+!metadata.cfg
+
+# inputs (don't commit personal photos)
+*.HEIC
+*.heic
+*.heif
+*.MOV
+*.mov
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
