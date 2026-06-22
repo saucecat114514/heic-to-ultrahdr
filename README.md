@@ -127,3 +127,7 @@ intact.)
 
 - [google/libultrahdr](https://github.com/google/libultrahdr) — UltraHDR reference codec
 - [pillow-heif](https://github.com/bigcat88/pillow_heif) / libheif — HEIF + aux image access
+
+## License
+
+[Apache License 2.0](LICENSE) — Copyright 2026 saucecat114514.

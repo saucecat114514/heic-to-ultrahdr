@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#
+# Copyright 2026 saucecat114514
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# See the LICENSE file in the project root for the full license text.
 """
 heic_to_ultrahdr.py — convert Apple HDR HEIC photos to web-friendly UltraHDR JPEGs.
 
